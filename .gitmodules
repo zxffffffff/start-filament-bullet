@@ -2,3 +2,6 @@
 	path = third_party/filament
 	url = https://github.com/google/filament.git
 	branch = release
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/microsoft/vcpkg.git
